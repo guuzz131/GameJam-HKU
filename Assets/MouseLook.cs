@@ -26,7 +26,7 @@ public class MouseLook : MonoBehaviour
         rotY += mouseX * mouseSensitivity * Time.deltaTime;
         rotX += mouseY * mouseSensitivity * Time.deltaTime;
 
-        //rotX = Mathf.Clamp(rotX, -clampAngleY, clampAngleY);
+        rotX = Mathf.Clamp(rotX, -clampAngleY, clampAngleY);
         //rotY = Mathf.Clamp(rotY, -clampAngleX, clampAngleX);
         Quaternion localRotation = Quaternion.Euler(rotX + transform.parent.transform.rotation.x, rotY + transform.parent.transform.rotation.y, 0.0f);
         transform.rotation = localRotation;
