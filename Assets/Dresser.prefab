@@ -1,6 +1,10 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< Updated upstream
 --- !u!1 &4806974765422169405
+=======
+--- !u!1 &8441068605314582153
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,6 +12,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 4806974765422169406}
   - component: {fileID: 4806974765422169407}
   m_Layer: 6
@@ -57,40 +62,72 @@ GameObject:
   - component: {fileID: 4806974766475407683}
   m_Layer: 0
   m_Name: Dresser_BottomLeft
+=======
+  - component: {fileID: 8441068605314582152}
+  - component: {fileID: 8441068605314582154}
+  - component: {fileID: 8441068605314582155}
+  m_Layer: 0
+  m_Name: Dresser_Dresser
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
 --- !u!4 &4806974766477833121
+=======
+--- !u!4 &8441068605314582152
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668225}
+=======
+  m_GameObject: {fileID: 8441068605314582153}
+>>>>>>> Stashed changes
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< Updated upstream
   m_Father: {fileID: 4806974766477833123}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4806974766476505987
+=======
+  m_Father: {fileID: 8441068605688835356}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8441068605314582154
+>>>>>>> Stashed changes
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668225}
   m_Mesh: {fileID: 4300000, guid: e220328c34bca0348a4ada832cf83493, type: 3}
 --- !u!23 &4806974766475407683
+=======
+  m_GameObject: {fileID: 8441068605314582153}
+  m_Mesh: {fileID: 4300006, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+--- !u!23 &8441068605314582155
+>>>>>>> Stashed changes
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668225}
+=======
+  m_GameObject: {fileID: 8441068605314582153}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -103,7 +140,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< Updated upstream
   - {fileID: 2100000, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+=======
+  - {fileID: 2100006, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+>>>>>>> Stashed changes
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -125,7 +166,11 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< Updated upstream
 --- !u!1 &4806974766477668227
+=======
+--- !u!1 &8441068605688835357
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -133,7 +178,11 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 4806974766477833123}
+=======
+  - component: {fileID: 8441068605688835356}
+>>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Dresser
   m_TagString: Untagged
@@ -141,17 +190,26 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
 --- !u!4 &4806974766477833123
+=======
+--- !u!4 &8441068605688835356
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668227}
+=======
+  m_GameObject: {fileID: 8441068605688835357}
+>>>>>>> Stashed changes
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 20.55941, y: -0, z: -28.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+<<<<<<< Updated upstream
   - {fileID: 4806974766477833121}
   - {fileID: 4806974766477833127}
   - {fileID: 4806974766477833125}
@@ -164,6 +222,20 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4806974766477668229
+=======
+  - {fileID: 8441068606341028001}
+  - {fileID: 8441068606497114759}
+  - {fileID: 8441068606432162306}
+  - {fileID: 8441068605314582152}
+  - {fileID: 8441068607071715883}
+  - {fileID: 8441068606988926196}
+  - {fileID: 8441068605842663907}
+  - {fileID: 8441068605896376776}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8441068605842663904
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -171,45 +243,78 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 4806974766477833125}
   - component: {fileID: 4806974766476505991}
   - component: {fileID: 4806974766475407687}
   m_Layer: 0
   m_Name: Dresser_BottomRight
+=======
+  - component: {fileID: 8441068605842663907}
+  - component: {fileID: 8441068605842663909}
+  - component: {fileID: 8441068605842663906}
+  m_Layer: 0
+  m_Name: Dresser_TopRight
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
 --- !u!4 &4806974766477833125
+=======
+--- !u!4 &8441068605842663907
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668229}
+=======
+  m_GameObject: {fileID: 8441068605842663904}
+>>>>>>> Stashed changes
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< Updated upstream
   m_Father: {fileID: 4806974766477833123}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4806974766476505991
+=======
+  m_Father: {fileID: 8441068605688835356}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8441068605842663909
+>>>>>>> Stashed changes
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668229}
   m_Mesh: {fileID: 4300004, guid: e220328c34bca0348a4ada832cf83493, type: 3}
 --- !u!23 &4806974766475407687
+=======
+  m_GameObject: {fileID: 8441068605842663904}
+  m_Mesh: {fileID: 4300012, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+--- !u!23 &8441068605842663906
+>>>>>>> Stashed changes
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668229}
+=======
+  m_GameObject: {fileID: 8441068605842663904}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -222,7 +327,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< Updated upstream
   - {fileID: 2100004, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+=======
+  - {fileID: 2100012, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+>>>>>>> Stashed changes
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -244,7 +353,10 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< Updated upstream
 --- !u!1 &4806974766477668231
+=======
+--- !u!1 &8441068605896376777
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -252,45 +364,123 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+  - component: {fileID: 8441068605896376776}
+  - component: {fileID: 8441068605896376779}
+  m_Layer: 6
+  m_Name: HidePos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8441068605896376776
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8441068605896376777}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.43, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8441068605688835356}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8441068605896376779
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8441068605896376777}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 31.654451, y: 9.291613, z: 8.849764}
+  m_Center: {x: 7.213908, y: 4.1458063, z: -0.7361307}
+--- !u!1 &8441068606341028062
+>>>>>>> Stashed changes
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 4806974766477833127}
   - component: {fileID: 4806974766476505985}
   - component: {fileID: 4806974766475407681}
   m_Layer: 0
   m_Name: Dresser_BottomMiddle
+=======
+  - component: {fileID: 8441068606341028001}
+  - component: {fileID: 8441068606341028003}
+  - component: {fileID: 8441068606341028000}
+  m_Layer: 0
+  m_Name: Dresser_BottomLeft
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
 --- !u!4 &4806974766477833127
+=======
+--- !u!4 &8441068606341028001
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668231}
+=======
+  m_GameObject: {fileID: 8441068606341028062}
+>>>>>>> Stashed changes
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< Updated upstream
   m_Father: {fileID: 4806974766477833123}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4806974766476505985
+=======
+  m_Father: {fileID: 8441068605688835356}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8441068606341028003
+>>>>>>> Stashed changes
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668231}
   m_Mesh: {fileID: 4300002, guid: e220328c34bca0348a4ada832cf83493, type: 3}
 --- !u!23 &4806974766475407681
+=======
+  m_GameObject: {fileID: 8441068606341028062}
+  m_Mesh: {fileID: 4300000, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+--- !u!23 &8441068606341028000
+>>>>>>> Stashed changes
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668231}
+=======
+  m_GameObject: {fileID: 8441068606341028062}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -303,7 +493,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< Updated upstream
   - {fileID: 2100002, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+=======
+  - {fileID: 2100000, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+>>>>>>> Stashed changes
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -325,7 +519,11 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< Updated upstream
 --- !u!1 &4806974766477668233
+=======
+--- !u!1 &8441068606432162307
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -333,45 +531,78 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 4806974766477833129}
   - component: {fileID: 4806974766476505995}
   - component: {fileID: 4806974766475407691}
   m_Layer: 0
   m_Name: Dresser_TopLeft
+=======
+  - component: {fileID: 8441068606432162306}
+  - component: {fileID: 8441068606432162308}
+  - component: {fileID: 8441068606432162309}
+  m_Layer: 0
+  m_Name: Dresser_BottomRight
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
 --- !u!4 &4806974766477833129
+=======
+--- !u!4 &8441068606432162306
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668233}
+=======
+  m_GameObject: {fileID: 8441068606432162307}
+>>>>>>> Stashed changes
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< Updated upstream
   m_Father: {fileID: 4806974766477833123}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4806974766476505995
+=======
+  m_Father: {fileID: 8441068605688835356}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8441068606432162308
+>>>>>>> Stashed changes
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668233}
   m_Mesh: {fileID: 4300008, guid: e220328c34bca0348a4ada832cf83493, type: 3}
 --- !u!23 &4806974766475407691
+=======
+  m_GameObject: {fileID: 8441068606432162307}
+  m_Mesh: {fileID: 4300004, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+--- !u!23 &8441068606432162309
+>>>>>>> Stashed changes
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668233}
+=======
+  m_GameObject: {fileID: 8441068606432162307}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -384,7 +615,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< Updated upstream
   - {fileID: 2100008, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+=======
+  - {fileID: 2100004, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+>>>>>>> Stashed changes
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -406,7 +641,11 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< Updated upstream
 --- !u!1 &4806974766477668235
+=======
+--- !u!1 &8441068606497114756
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -414,45 +653,78 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 4806974766477833131}
   - component: {fileID: 4806974766476505989}
   - component: {fileID: 4806974766475407685}
   m_Layer: 0
   m_Name: Dresser_Dresser
+=======
+  - component: {fileID: 8441068606497114759}
+  - component: {fileID: 8441068606497114761}
+  - component: {fileID: 8441068606497114758}
+  m_Layer: 0
+  m_Name: Dresser_BottomMiddle
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
 --- !u!4 &4806974766477833131
+=======
+--- !u!4 &8441068606497114759
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668235}
+=======
+  m_GameObject: {fileID: 8441068606497114756}
+>>>>>>> Stashed changes
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< Updated upstream
   m_Father: {fileID: 4806974766477833123}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4806974766476505989
+=======
+  m_Father: {fileID: 8441068605688835356}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8441068606497114761
+>>>>>>> Stashed changes
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668235}
   m_Mesh: {fileID: 4300006, guid: e220328c34bca0348a4ada832cf83493, type: 3}
 --- !u!23 &4806974766475407685
+=======
+  m_GameObject: {fileID: 8441068606497114756}
+  m_Mesh: {fileID: 4300002, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+--- !u!23 &8441068606497114758
+>>>>>>> Stashed changes
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668235}
+=======
+  m_GameObject: {fileID: 8441068606497114756}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -465,7 +737,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< Updated upstream
   - {fileID: 2100006, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+=======
+  - {fileID: 2100002, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+>>>>>>> Stashed changes
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -487,7 +763,11 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< Updated upstream
 --- !u!1 &4806974766477668237
+=======
+--- !u!1 &8441068606988926197
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -495,45 +775,78 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 4806974766477833133}
   - component: {fileID: 4806974766476505999}
   - component: {fileID: 4806974766475407695}
   m_Layer: 0
   m_Name: Dresser_TopRight
+=======
+  - component: {fileID: 8441068606988926196}
+  - component: {fileID: 8441068606988926198}
+  - component: {fileID: 8441068606988926199}
+  m_Layer: 0
+  m_Name: Dresser_TopMiddle
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
 --- !u!4 &4806974766477833133
+=======
+--- !u!4 &8441068606988926196
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668237}
+=======
+  m_GameObject: {fileID: 8441068606988926197}
+>>>>>>> Stashed changes
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< Updated upstream
   m_Father: {fileID: 4806974766477833123}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4806974766476505999
+=======
+  m_Father: {fileID: 8441068605688835356}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8441068606988926198
+>>>>>>> Stashed changes
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668237}
   m_Mesh: {fileID: 4300012, guid: e220328c34bca0348a4ada832cf83493, type: 3}
 --- !u!23 &4806974766475407695
+=======
+  m_GameObject: {fileID: 8441068606988926197}
+  m_Mesh: {fileID: 4300010, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+--- !u!23 &8441068606988926199
+>>>>>>> Stashed changes
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668237}
+=======
+  m_GameObject: {fileID: 8441068606988926197}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -546,7 +859,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< Updated upstream
   - {fileID: 2100012, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+=======
+  - {fileID: 2100010, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+>>>>>>> Stashed changes
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -568,7 +885,11 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< Updated upstream
 --- !u!1 &4806974766477668239
+=======
+--- !u!1 &8441068607071715880
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -576,45 +897,78 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 4806974766477833135}
   - component: {fileID: 4806974766476505993}
   - component: {fileID: 4806974766475407689}
   m_Layer: 0
   m_Name: Dresser_TopMiddle
+=======
+  - component: {fileID: 8441068607071715883}
+  - component: {fileID: 8441068607071715885}
+  - component: {fileID: 8441068607071715882}
+  m_Layer: 0
+  m_Name: Dresser_TopLeft
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
 --- !u!4 &4806974766477833135
+=======
+--- !u!4 &8441068607071715883
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668239}
+=======
+  m_GameObject: {fileID: 8441068607071715880}
+>>>>>>> Stashed changes
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< Updated upstream
   m_Father: {fileID: 4806974766477833123}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4806974766476505993
+=======
+  m_Father: {fileID: 8441068605688835356}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8441068607071715885
+>>>>>>> Stashed changes
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668239}
   m_Mesh: {fileID: 4300010, guid: e220328c34bca0348a4ada832cf83493, type: 3}
 --- !u!23 &4806974766475407689
+=======
+  m_GameObject: {fileID: 8441068607071715880}
+  m_Mesh: {fileID: 4300008, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+--- !u!23 &8441068607071715882
+>>>>>>> Stashed changes
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 4806974766477668239}
+=======
+  m_GameObject: {fileID: 8441068607071715880}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -627,7 +981,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< Updated upstream
   - {fileID: 2100010, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+=======
+  - {fileID: 2100008, guid: e220328c34bca0348a4ada832cf83493, type: 3}
+>>>>>>> Stashed changes
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
